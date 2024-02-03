@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <main id='App' style={{width: window.innerWidth, height: window.innerHeight}}>
+    <main id='App' style={{width: window.innerWidth, minWidth: window.innerWidth,height: window.innerHeight, minHeight:window.innerHeight}}>
       <div className="tab tab1">
 
       </div>
