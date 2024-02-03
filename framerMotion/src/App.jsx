@@ -18,6 +18,9 @@ function App() {
       <div className="tab tab4">
 
       </div>
+      <form>
+        <input type="text" placeholder='Enter text'/>
+      </form>
     </main>
   )
 }
