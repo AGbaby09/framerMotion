@@ -12,15 +12,15 @@ function App() {
       <div className="tab tab2">
 
       </div>
+      <form>
+        <input type="text" placeholder='Enter text'/>
+      </form>
       <div className="tab tab3">
 
       </div>
       <div className="tab tab4">
 
       </div>
-      <form>
-        <input type="text" placeholder='Enter text'/>
-      </form>
     </main>
   )
 }

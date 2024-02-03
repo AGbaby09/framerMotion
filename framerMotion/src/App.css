@@ -21,12 +21,12 @@
   background-color: teal;
 }
 form{
-  height: 20%;
+  height: 10%;
   border: 2px solid orange;
 
 }
 form>input{
-  height: 50%;
+  height: 100%;
   width: 80%;
   margin: auto 10%;
 }
